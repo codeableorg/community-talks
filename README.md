@@ -2,9 +2,9 @@
 
 Las lightning talks de Codeable se realizan los lunes de cada semana para hablar de temas diversos de ingeniería de software.
 
-### Quiero presentar una plática [📖]
+### Quiero presentar una plática
 
-Las pláticas deberían de ser acerca de ingeniería de software y experiencias del mundo real. Cualquier historia interesante o tema es bienvenido. Nuestro proceso de selección de pláticas consta de tres pasos:
+Las pláticas deberían de ser acerca del stack de Codeable, ingeniería de software y experiencias del mundo real. Cualquier historia interesante o tema es bienvenido. Nuestro proceso de selección de pláticas consta de tres pasos:
 
 1. Tú formulas o adoptas una idea,
 2. Compartes en los issues tu decisión,
