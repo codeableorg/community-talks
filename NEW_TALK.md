@@ -1,3 +1,6 @@
+---
+permalink: /formulate
+---
 # Cómo agregar una nueva charla
 
 1. Crea un issue, el título del mismo debe ser el nombre de tu charla.
