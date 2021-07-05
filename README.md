@@ -1,6 +1,6 @@
 # Codeable
 
-Las lightning talks de Codeable se realizan los lunes de cada semana para hablar de temas diversos de ingeniería de software.
+Las lightning talks de Codeable se realizan los jueves de cada dos semanas para hablar de temas diversos de ingeniería de software.
 
 ### Quiero presentar una plática
 
